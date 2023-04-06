@@ -8,7 +8,7 @@
 - NONE
  
 # Description:
-- A mobile app that allows users to track their exercises and improve
+- A mobile app that allows users to track their exercises and gym improvement
 
 # Technologies:
 ## Frontend
